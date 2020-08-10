@@ -1,8 +1,6 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://dietzendev.com/)
-
 ### Whats Up? 👋 I'm Zak!
 
-[![Zaks's github stats](https://github-readme-stats.vercel.app/api?username=DietzenDev)](https://dietzendev.com/)
+[![Zaks's github stats](https://github-readme-stats.vercel.app/api?username=zdietzen)](https://dietzendev.com/)
 
 <!--
 **zdietzen/zdietzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
