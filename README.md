@@ -4,6 +4,8 @@
 
 [![Zak's github stats](https://github-readme-stats.vercel.app/api?username=zdietzen&count_private=true&show_icons=true&theme=tokyonight)](https://dietzendev.com/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdietzen)](https://dietzendev.com/)
+
 <!--
 **zdietzen/zdietzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -17,6 +19,3 @@
 -⚡ Fun fact: I have 3D printed a fully functioning drone...<br>
 </p>
 </div>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdietzen)](https://dietzendev.com/)
