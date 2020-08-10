@@ -1,10 +1,7 @@
 ### Whats Up? 👋 I'm Zak!
-<div class="row">
+
 [![Zaks's github stats](https://github-readme-stats.vercel.app/api?username=zdietzen&count_private=true&show_icons=true&theme=cobalt)](https://dietzendev.com/)
-</div>  
-<div class="row">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdietzen)](https://dietzendev.com/)
-</div>  
+
 <!--
 **zdietzen/zdietzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -20,3 +17,5 @@
 </p>
 </div>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdietzen)](https://dietzendev.com/)
