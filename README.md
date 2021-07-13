@@ -12,10 +12,11 @@
 <div class="row">
 <p>
 -🔭 I’m currently working for <a href="https/:thinkcreatedo.com">Imagine This Marketing Group</a>.<br>
--🌱 I’m currently learning GSAP...<br>
+-🌱 I’m currently learning anything I can about Cryptocurrency... have been for a few years!<br>
 -👯 I’m looking to collaborate on any fun projects where I can continue to expand my skills.<br>
 -💬 Ask me about my hobbies...<br>
   -📫 How to reach me: <a href="https//:dietzendev.com"> DietzenDev.com</a><br>
--⚡ Fun fact: I have 3D printed a fully functioning drone...<br>
+-⚡ Fun facts: -I have 3D printed a fully functioning drone...<br>
+   -Operated a small cryptocurrency mine from 2017-2019...<br>
 </p>
 </div>
